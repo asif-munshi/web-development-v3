@@ -7,8 +7,8 @@
 
 ## Projects:
 
-⋅⋅\* **_PERSONALBLOG_**
-⋅⋅\* **_COFFEEMASTER_**
-⋅⋅\* **_CALCULATOR_**
-⋅⋅\* **_WORDMASTER_**
-⋅⋅\* **_MOTION_**
+- **_PERSONALBLOG_**
+- **_COFFEEMASTER_**
+- **_CALCULATOR_**
+- **_WORDMASTER_**
+- **_MOTION_**
